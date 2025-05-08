@@ -1,11 +1,11 @@
 # Sudoku Solver
 
-Ein Java-Programm zum Lösen von Sudoku-Rätseln mit einer benutzerfreundlichen Konsolenschnittstelle.
+Ein Java-Programm zum Lösen von Sudoku-Rätseln mit einer Konsolenschnittstelle.
 
 ## Funktionen
 
 - Lösen von 9x9 Sudoku-Rätseln mit dem Backtracking-Algorithmus
-- Benutzerfreundliche Konsolenschnittstelle mit farbiger Ausgabe
+- Konsolenschnittstelle mit farbiger Ausgabe
 - Möglichkeit, eigene Rätsel einzugeben
 - Vordefiniertes Beispiel-Rätsel
 - Farbliche Unterscheidung zwischen ursprünglichen und gelösten Zahlen
@@ -42,6 +42,3 @@ Bei der Eingabe eines eigenen Rätsels:
 - Farbige Konsolenausgabe mit ANSI-Escape-Sequenzen
 - Fehlerbehandlung für ungültige Eingaben
 
-## Lizenz
-
-Dieses Projekt steht unter der MIT-Lizenz. Siehe die [LICENSE](LICENSE) Datei für Details.
